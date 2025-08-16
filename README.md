@@ -93,14 +93,15 @@ Copy
 Edit
 gcc program-01.c -o program1
 ./program1
-🎯 Learning Outcomes
+
+# 🎯 Learning Outcomes
 Strengthened fundamentals of C programming (loops, conditions, functions, recursion, file handling).
 
 Implemented core DSA concepts (stack, queue, linked list, trees, graphs, hashing).
 
 Built a strong foundation for problem-solving and algorithmic thinking.
 
-🙏 Acknowledgements
+# 🙏 Acknowledgements
 Special thanks to my faculty, peers, and online resources that helped me learn and practice these concepts effectively.
 
 ✨ This repository showcases my progress in C Programming & DSA, and I’ll continue building more advanced projects ahead.
